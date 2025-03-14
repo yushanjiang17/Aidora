@@ -46,4 +46,4 @@ Airdora is a simple and intuitive inventory management app designed to help user
 ### Steps
 1. Clone repository:
 ```bash
-git clone https://github.com/sabrinajiang17/Aidora.git
+git clone https://github.com/yushanjiang17/Aidora.git
