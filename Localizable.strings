@@ -1,0 +1,53 @@
+/* Tab Bar */
+"home" = "Home";
+"add" = "Add";
+"settings" = "Settings";
+"reminders" = "Reminders";
+"list" = "List";
+
+/* Home */
+"all" = "All";
+"this_week" = "This Week";
+"this_month" = "This Month";
+"expired" = "Expired";
+"expires_in_days" = "Expires in %d days";
+"expired_status" = "Expired";
+"stock" = "Stock: %d";
+"empty_state" = "No items yet. Tap '+' to add!";
+
+/* Add/Edit Medication */
+"new_medication" = "New Medication";
+"edit_medication" = "Edit Medication";
+"cancel" = "Cancel";
+"save" = "Save";
+"name_required" = "Name*";
+"expiry_date" = "Expiry Date";
+"select_date" = "Select Date";
+"quantity" = "Quantity";
+"unit" = "Unit";
+"tablet" = "Tablet";
+"bottle" = "Bottle";
+"pack" = "Pack";
+"advanced" = "Advanced";
+"price" = "Price";
+"group" = "Group";
+"delete_this_item" = "Delete This Item";
+
+/* Settings */
+"pro_version" = "PRO Version";
+"upgrade_to_pro" = "Upgrade to PRO";
+"icloud_sync" = "iCloud Sync";
+"requires_pro" = "Requires PRO";
+"export_data" = "Export Data";
+"excel" = "Excel";
+"csv" = "CSV";
+"version_info" = "v1.0 · Terms & Privacy";
+
+/* Reminders */
+"low_stock_alert" = "Low Stock Alert";
+"notify_low_stock" = "Notify when stock < 3";
+"expiry_alert" = "Expiry Alert";
+"notify_expiry" = "Notify 7 days before expiry";
+
+/* List View */
+"expires_on" = "Expires on %@"; 
